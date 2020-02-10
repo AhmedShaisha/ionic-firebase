@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "475018837910",
+    "firebase_url": "https://ionic-fcm-dcfca.firebaseio.com",
+    "project_id": "ionic-fcm-dcfca",
+    "storage_bucket": "ionic-fcm-dcfca.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:475018837910:android:39b64fb51e75ff2ce8e7b7",
+        "android_client_info": {
+          "package_name": "io.fcm.firebase_ionic_fcm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "475018837910-vin5l2b7ap487qsfggmktt8mrk8hfuu6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBwMYcIm7w98fkCX6oX5clLUGgjJdnglok"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "475018837910-vin5l2b7ap487qsfggmktt8mrk8hfuu6.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "475018837910-m8o6m65iscu3togal11diq95klr9sm3e.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "firebaseionicfcm"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
